@@ -4,7 +4,7 @@
 - The objective of this project was to gain an in-depth understanding of building a machine learning pipeline from scratch that can be used to train and evaluate image classification models. In this project I have implemented a set of classification models then applied them to a dataset of images (PROPS Classification Dataset) in the context of domestic service robots. This also involved experimenting with various optimizers, and regularization techniques.<br>
 
 # 🎯 Goals of this project
-- Without Neural Networks
+Without Neural Networks
 * Implement a K-Nearest Neighbors classifier.
 * Implement a Multiclass Support Vector Machine classifier.
 * Implement a Softmax classifier.
@@ -12,7 +12,7 @@
 * Understand the characteristics of instance-level classification using the PROPS Classification Dataset.
 * Practice with cross validating your machine learning models.
 
-- With Neural Networks
+With Neural Networks
 * Implement the forward and backward pass for a two layer neural network.
 * Generalize the two-layer network implementation to fully connected layers.
 * Implement the forward and backward pass for a non-linear activation function (ReLU).
