@@ -51,7 +51,7 @@ Softmax classifier, achieved a classification accuracy of 89.73% on the validati
 ### Two-layer neural network 
 The two-layer neural network implementation achieved a classification accuracy of 99.5% on the validation dataset, and 62.3% on the test images. Below are the training loss plots, and accuracy plots.
 ![Screenshot](assets/two_layer_nn_plots.png)
-Below are some plots showing the effect of dropout regularization, and size of hidden layers, when the training data was kept as 20K images.
+Below are some plots showing the effect of dropout regularization, and size of hidden layers, when the training data was kept as 20K images.<br>
 ![Screenshot](assets/two_layer_nn_dropout_plots.png)
 ### Multi-layer neural network
 The five-layer neural network implementation was first trained over 4K training images, with the aim of studying of different optimizers on the classification accuracy. Below are the training loss plots, and accuracy plots. 
